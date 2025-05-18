@@ -1,1 +1,2 @@
 1. Mejorar mis habilidades sobre desarrollo en backend con tecnologías que no sean Java y Python
+2. Profundizar en mis conocimientos de frontend, que aunque he hecho otras formaciones, no he utilizado de forma profesional
