@@ -5,3 +5,5 @@ Formación
 1. Grado en Ingeniería Informática
 2. Máster Universitario en Ingeniería del Software y Sistemas Informáticos
 3. Experto en desarrollo de aplicaciones blockchain
+4. Curso avanzado en desarrollo con Python
+5. RactJS Bootcamp
